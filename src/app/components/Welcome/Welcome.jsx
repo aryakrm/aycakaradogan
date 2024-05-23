@@ -17,7 +17,7 @@ function Welcome() {
         <h4>
           {" "}
           <MdOutlineDesignServices />
-          Ayça Karadoğan Design'a Hoş Geldiniz
+          {t("welcome")}
         </h4>
         <p>{t("about_sum")}</p>
         <Link href="/about">{t("more")}</Link>
