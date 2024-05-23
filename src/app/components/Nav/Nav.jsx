@@ -123,7 +123,7 @@ function Nav() {
             </li>
             <li>
               {" "}
-              <Link href="/design">
+              <Link href="/designs">
                 {" "}
                 <MdOutlineDesignServices />
                 {t("design")}
