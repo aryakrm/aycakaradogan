@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import "./designs.scss";
+import "./designsStyle.scss";
 import ImageGallery from "react-image-gallery";
 import Nav from "../app/components/Nav/Nav";
 import Footer from "../app/components/Footer/Footer";
