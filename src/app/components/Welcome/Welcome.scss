@@ -1,0 +1,109 @@
+.Welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 2rem;
+  background-image: url(../../../../public/ptn.png);
+  background-repeat: repeat;
+  background-color: #f5dbd7;
+  gap: 1rem;
+  img {
+    width: 40%;
+    height: auto;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 0px 55px -21px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 0px 55px -21px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 55px -21px rgba(0, 0, 0, 1);
+    animation-name: floatIt2;
+    animation-iteration-count: infinite;
+    animation-duration: 4000ms;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+  }
+  div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 40%;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 0px 0px 40px 10px rgba(245, 219, 215, 1);
+    -moz-box-shadow: inset 0px 0px 40px 10px rgba(245, 219, 215, 1);
+    box-shadow: inset 0px 0px 40px 10px rgba(245, 219, 215, 1);
+    animation-name: floatIt;
+    animation-iteration-count: infinite;
+    animation-duration: 4000ms;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    h4 {
+      border-bottom: 0.5px solid #f5dbd7;
+      padding-bottom: 0.5rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      svg {
+        font-size: 2rem;
+        color: #bbaba8;
+        margin-left: 1rem;
+      }
+    }
+    p {
+      background-color: #f5dbd7;
+      padding: 1rem;
+      border-radius: 20px;
+    }
+    a {
+      background-color: #f5dbd7;
+      padding: 0.5rem 1rem;
+      border-radius: 1rem;
+    }
+  }
+}
+
+@keyframes floatIt {
+  0% {
+    translate: 0 0;
+  }
+
+  50% {
+    translate: 1% 1%;
+  }
+
+  100% {
+    translate: 0 0;
+  }
+}
+@keyframes floatIt2 {
+  0% {
+    translate: 0 0;
+  }
+
+  50% {
+    translate: -2% -2%;
+  }
+
+  100% {
+    translate: 0 0;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .Welcome {
+    flex-direction: column;
+    img {
+      width: 80%;
+    }
+    div {
+      width: 80%;
+
+      h4 {
+      }
+      a {
+      }
+    }
+  }
+}

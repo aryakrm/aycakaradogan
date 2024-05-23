@@ -1,0 +1,32 @@
+.Sec2 {
+  width: 100%;
+  background-image: url(../../../../public/ptn.png);
+  background-repeat: repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  gap: 1rem;
+  div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-left: 10px solid #f5c4bd;
+    padding-left: 1rem;
+    h1 {
+      &:first-of-type {
+        color: gray;
+      }
+      span {
+        color: #f5c4bd;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .Sec2 {
+    flex-direction: column;
+  }
+}

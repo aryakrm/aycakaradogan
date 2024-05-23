@@ -1,0 +1,130 @@
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  background-color: white;
+  .nav_menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    li {
+      a {
+        color: inherit;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.6rem;
+        font-size: 1rem;
+        font-weight: 500;
+        background-color: #f5dbd7;
+        padding: 0.3rem 0.6rem;
+        border-radius: 5px;
+        color: black;
+        -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+        -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+        box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+      }
+    }
+  }
+  .languages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    span {
+      font-size: 1.1rem;
+      &:hover {
+        cursor: pointer;
+        opacity: 0.7;
+        transition: 500ms;
+      }
+    }
+    a {
+      svg {
+        font-size: 1.5rem;
+        margin-top: 3px;
+      }
+    }
+  }
+  .hamburger {
+    background-color: #f5dbd7;
+    padding: 0.4rem;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.5);
+    svg {
+      font-size: 1.5rem;
+      color: black;
+      &:hover {
+        cursor: pointer;
+        opacity: 0.7;
+        transition: 500ms;
+      }
+    }
+  }
+  .side-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8rem;
+    background-color: #f5dbd7;
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 30%;
+    height: 100vh;
+    z-index: 60;
+    .hamburger {
+      margin-left: 50%;
+    }
+    .side-menu-list {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      li {
+        a {
+          font-size: 1.5rem;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 1rem;
+        }
+        border-bottom: 0.5px solid white;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  nav {
+    .nav_menu {
+      display: none;
+    }
+    .side-menu {
+      gap: 1rem;
+      width: 50%;
+      padding: 0.5rem;
+      .hamburger {
+        margin-bottom: 5rem;
+      }
+      .side-menu-list {
+        li {
+          a {
+            font-size: 1rem;
+          }
+        }
+      }
+    }
+  }
+}

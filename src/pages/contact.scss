@@ -1,0 +1,51 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 7rem 0 0 0;
+  gap: 2rem;
+  .contactPic {
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+  }
+  .location {
+    width: 40%;
+    height: 20rem;
+    border: none;
+    border-radius: 20px;
+    border: 2px dotted #f5dbd7;
+  }
+  p {
+    text-align: center;
+    width: 50%;
+    background-color: #f5dbd7;
+    padding: 1rem;
+    border-radius: 20px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    svg {
+      font-size: 2rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  main {
+    .aboutPic {
+      width: 80%;
+    }
+    .location {
+      width: 80%;
+    }
+    p {
+      width: 80%;
+    }
+  }
+}
