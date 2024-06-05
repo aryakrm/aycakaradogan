@@ -18,7 +18,7 @@ function Sec3() {
         <div className="embla__container">
           <div className="embla__slide">
             <Image
-              src="https://ik.imagekit.io/aryakrm/Sec3/01-min.jpg?updatedAt=1716461388679"
+              src="https://i.ibb.co/68ysxns/01-Copy.jpg"
               alt="first Slide"
               width={600}
               height={400}
@@ -26,7 +26,8 @@ function Sec3() {
           </div>
           <div className="embla__slide">
             <Image
-              src="https://ik.imagekit.io/aryakrm/Sec3/02-min.jpg?updatedAt=1716461388157"
+              src="
+              https://i.ibb.co/mXkN7VP/02-Copy.jpg"
               alt="second Slide"
               width={600}
               height={400}
@@ -34,7 +35,7 @@ function Sec3() {
           </div>
           <div className="embla__slide">
             <Image
-              src="https://ik.imagekit.io/aryakrm/Sec3/03-min.jpg?updatedAt=1716461389502"
+              src="https://i.ibb.co/2KCX40s/03-Copy.jpg"
               alt="third Slide"
               width={600}
               height={400}

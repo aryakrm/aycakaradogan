@@ -547,54 +547,54 @@ const laptaVilla = [
 const alacope = [
   {
     original:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/1.JPG?updatedAt=1716468999752",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/01.jpg?updatedAt=1717581837720",
     thumbnail:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/1.JPG?updatedAt=1716468999752",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/01.jpg?updatedAt=1717581837720",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Alacope Hotel, Izmir",
   },
   {
     original:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/2.JPG?updatedAt=1716468999275",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/02.jpg?updatedAt=1717581840305",
     thumbnail:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/2.JPG?updatedAt=1716468999275",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/02.jpg?updatedAt=1717581840305",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Alacope Hotel, Izmir",
   },
   {
     original:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/3.JPG?updatedAt=1716468999873",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/03.jpg?updatedAt=1717581838550",
     thumbnail:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/3.JPG?updatedAt=1716468999873",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/03.jpg?updatedAt=1717581838550",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Alacope Hotel, Izmir",
   },
   {
     original:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/4.JPG?updatedAt=1716468999946",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/04.jpg?updatedAt=1717581839069",
     thumbnail:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/4.JPG?updatedAt=1716468999946",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/04.jpg?updatedAt=1717581839069",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Alacope Hotel, Izmir",
   },
   {
     original:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/5.JPG?updatedAt=1716469000046",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/05.jpg?updatedAt=1717581840268",
     thumbnail:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/5.JPG?updatedAt=1716469000046",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/05.jpg?updatedAt=1717581840268",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Alacope Hotel, Izmir",
   },
   {
     original:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/6.JPG?updatedAt=1716468999628",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/06.jpg?updatedAt=1717581836905",
     thumbnail:
-      "https://ik.imagekit.io/aryakrm/izmir%20alacope/6.JPG?updatedAt=1716468999628",
+      "https://ik.imagekit.io/aryakrm/izmir%20alacope/06.jpg?updatedAt=1717581836905",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Alacope Hotel, Izmir",
@@ -1043,19 +1043,15 @@ const terasOcakbasi = [
 ];
 const palmDubai = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Intro/1-min.jpg?updatedAt=1716459852347",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Intro/1-min.jpg?updatedAt=1716459852347",
+    original: "https://i.ibb.co/Fw67Qqd/1.jpg",
+    thumbnail: "https://i.ibb.co/Fw67Qqd/1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Palm Jumeirah Villa, Dubai, United Arab Emirates",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Palm%20Dubai/2-min.jpg?updatedAt=1716462234180",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Palm%20Dubai/2-min.jpg?updatedAt=1716462234180",
+    original: "https://i.ibb.co/5xX3LXR/2.jpg",
+    thumbnail: "https://i.ibb.co/5xX3LXR/2.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Palm Jumeirah Villa, Dubai, United Arab Emirates",
