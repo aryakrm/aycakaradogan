@@ -11,7 +11,7 @@ function Intro() {
       <Carousel fade>
         <Carousel.Item>
           <Image
-            src="https://i.ibb.co/Fw67Qqd/1.jpg"
+            src="https://i.ibb.co/sFj2xGg/1-min-1.jpg"
             alt="first Slide"
             width={100}
             height={100}
