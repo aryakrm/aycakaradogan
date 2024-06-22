@@ -59,10 +59,6 @@ function About() {
           <GiPencilRuler />
           <h3>{t("modeling")}</h3>
         </li>
-        <li>
-          <GiPencilRuler />
-          <h3>{t("ex_design")}</h3>
-        </li>
       </ul>
       <Footer />
     </motion.main>
