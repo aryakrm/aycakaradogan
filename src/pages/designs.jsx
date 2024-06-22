@@ -600,6 +600,103 @@ const alacope = [
     originalAlt: "Alacope Hotel, Izmir",
   },
 ];
+
+const pashaLargeKing = [
+  {
+    original: "https://i.ibb.co/MhMZk1H/01-min.jpg",
+    thumbnail: "https://i.ibb.co/MhMZk1H/01-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/KsCX2Q3/02-min.jpg",
+    thumbnail: "https://i.ibb.co/KsCX2Q3/02-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/1LgbXTH/03-min.jpg",
+    thumbnail: "https://i.ibb.co/1LgbXTH/03-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/R6f4gvy/04-min.jpg",
+    thumbnail: "https://i.ibb.co/R6f4gvy/04-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/WkhzFbf/05-min.jpg",
+    thumbnail: "https://i.ibb.co/WkhzFbf/05-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/GsJn15J/06-min.jpg",
+    thumbnail: "https://i.ibb.co/GsJn15J/06-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+  },
+];
+const pashaSmallKing = [
+  {
+    original: "https://i.ibb.co/ZJNqsnR/01-min.jpg",
+    thumbnail: "https://i.ibb.co/ZJNqsnR/01-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/MMZmXv8/02-min.jpg",
+    thumbnail: "https://i.ibb.co/MMZmXv8/02-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/s1s10Rx/03-min.jpg",
+    thumbnail: "https://i.ibb.co/s1s10Rx/03-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/3cCrTdz/04-min.jpg",
+    thumbnail: "https://i.ibb.co/3cCrTdz/04-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/5kFRB4s/05-min.jpg",
+    thumbnail: "https://i.ibb.co/5kFRB4s/05-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/qMMk3TL/06-min.jpg",
+    thumbnail: "https://i.ibb.co/qMMk3TL/06-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/grLXWH4/07-min.jpg",
+    thumbnail: "https://i.ibb.co/grLXWH4/07-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+  },
+];
+
 const pashaRestoration = [
   {
     original:
@@ -618,6 +715,36 @@ const pashaRestoration = [
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Pasha Hotel Restoration Project, Lefkoşa",
+  },
+];
+const pashaTerrace = [
+  {
+    original: "https://i.ibb.co/NVdr2H0/01-min.jpg",
+    thumbnail: "https://i.ibb.co/NVdr2H0/01-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/6RyWQPJ/02-min.jpg",
+    thumbnail: "https://i.ibb.co/6RyWQPJ/02-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/JQN0vRL/03-min.jpg",
+    thumbnail: "https://i.ibb.co/JQN0vRL/03-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+  },
+  {
+    original: "https://i.ibb.co/CHPsSR5/04-min.jpg",
+    thumbnail: "https://i.ibb.co/CHPsSR5/04-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
   },
 ];
 const airportVip = [
@@ -1393,6 +1520,28 @@ function Designs() {
         </div>
       </div>
       <div className="project">
+        <h1>Pasha Hotel Large King Room, Lefkoşa - 2024</h1>
+        <div className="renders">
+          <ImageGallery
+            thumbnailPosition="bottom"
+            showThumbnails={true}
+            showPlayButton={false}
+            items={pashaLargeKing}
+          />
+        </div>
+      </div>
+      <div className="project">
+        <h1>Pasha Hotel Small King Room, Lefkoşa - 2024</h1>
+        <div className="renders">
+          <ImageGallery
+            thumbnailPosition="bottom"
+            showThumbnails={true}
+            showPlayButton={false}
+            items={pashaSmallKing}
+          />
+        </div>
+      </div>
+      <div className="project">
         <h1>Pasha Hotel Suit Rooms, Lefkoşa - 2024</h1>
         <div className="renders">
           <ImageGallery
@@ -1404,13 +1553,13 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Pasha Hotel Standard Rooms, Lefkoşa - 2024</h1>
+        <h1>Pasha Hotel Terrace Rooms, Lefkoşa - 2024</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
             showThumbnails={true}
             showPlayButton={false}
-            items={pashaStandard}
+            items={pashaTerrace}
           />
         </div>
       </div>
