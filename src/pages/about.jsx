@@ -7,6 +7,7 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import Nav from "../app/components/Nav/Nav";
 import Footer from "../app/components/Footer/Footer";
+import { GiPencilRuler } from "react-icons/gi";
 import "../i18n.js";
 // import { t } from "i18next";
 import { useTranslation } from "react-i18next";
@@ -36,6 +37,29 @@ function About() {
         height={90}
         priority
       />
+      <h2>Some Of Our Services</h2>
+      <ul className="services">
+        <li>
+          <GiPencilRuler />
+          <h3>Architectural Design</h3>
+        </li>
+        <li>
+          <GiPencilRuler />
+          <h3>Interior design</h3>
+        </li>
+        <li>
+          <GiPencilRuler />
+          <h3>Project Design</h3>
+        </li>
+        <li>
+          <GiPencilRuler />
+          <h3>3D Modeling</h3>
+        </li>
+        <li>
+          <GiPencilRuler />
+          <h3>Exterior Design</h3>
+        </li>
+      </ul>
       <Footer />
     </motion.main>
   );
