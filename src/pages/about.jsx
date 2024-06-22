@@ -37,27 +37,31 @@ function About() {
         height={90}
         priority
       />
-      <h2>Some Of Our Services</h2>
+      <h2>{t("services_title")}</h2>
       <ul className="services">
         <li>
           <GiPencilRuler />
-          <h3>Architectural Design</h3>
+          <h3>{t("arch_design")}</h3>
         </li>
         <li>
           <GiPencilRuler />
-          <h3>Interior design</h3>
+          <h3>{t("int_design")}</h3>
         </li>
         <li>
           <GiPencilRuler />
-          <h3>Project Design</h3>
+          <h3>{t("landscape")}</h3>
         </li>
         <li>
           <GiPencilRuler />
-          <h3>3D Modeling</h3>
+          <h3>{t("project_design")}</h3>
         </li>
         <li>
           <GiPencilRuler />
-          <h3>Exterior Design</h3>
+          <h3>{t("modeling")}</h3>
+        </li>
+        <li>
+          <GiPencilRuler />
+          <h3>{t("ex_design")}</h3>
         </li>
       </ul>
       <Footer />
