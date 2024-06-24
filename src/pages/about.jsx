@@ -8,6 +8,10 @@ import { motion } from "framer-motion";
 import Nav from "../app/components/Nav/Nav";
 import Footer from "../app/components/Footer/Footer";
 import { GiPencilRuler } from "react-icons/gi";
+import { LuFlower2 } from "react-icons/lu";
+import { MdArchitecture } from "react-icons/md";
+import { SiAltiumdesigner } from "react-icons/si";
+import { SiThreedotjs } from "react-icons/si";
 import "../i18n.js";
 // import { t } from "i18next";
 import { useTranslation } from "react-i18next";
@@ -16,11 +20,7 @@ function About() {
   const { t } = useTranslation();
 
   return (
-    <motion.main
-      initial={{ x: -300, opacity: 0 }}
-      animate={{ x: 0, opacity: 1 }}
-      transition={{ type: "spring", stiffness: 300 }}
-    >
+    <motion.main initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
       <Nav />
       <Image
         className="aboutPic"
@@ -41,23 +41,23 @@ function About() {
       <ul className="services">
         <li>
           <GiPencilRuler />
+          <h2>{t("project_design")}</h2>
+        </li>
+        <li>
+          <SiAltiumdesigner />
           <h3>{t("arch_design")}</h3>
         </li>
         <li>
-          <GiPencilRuler />
+          <MdArchitecture />
           <h3>{t("int_design")}</h3>
         </li>
         <li>
-          <GiPencilRuler />
+          <LuFlower2 />
           <h3>{t("landscape")}</h3>
         </li>
         <li>
-          <GiPencilRuler />
-          <h3>{t("project_design")}</h3>
-        </li>
-        <li>
-          <GiPencilRuler />
-          <h3>{t("modeling")}</h3>
+          <SiThreedotjs />
+          <h2>{t("modeling")}</h2>
         </li>
       </ul>
       <Footer />
