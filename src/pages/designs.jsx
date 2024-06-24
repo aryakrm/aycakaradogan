@@ -133,7 +133,7 @@ const lefkosaRes = [
       "https://ik.imagekit.io/aryakrm/Lefko%C5%9Fa%20Restaurant%20Project%202020/1.jpg?updatedAt=1716483693757",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Lefkoşa Restaurant",
+    originalAlt: "Nicosia Restaurant",
   },
 ];
 const EsenTepeVilla = [
@@ -325,7 +325,7 @@ const lefkosaRes2 = [
       "https://ik.imagekit.io/aryakrm/sosisci/1-min.jpg?updatedAt=1716476066813",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Lefkoşa Restaurant 2022",
+    originalAlt: "Nicosia Restaurant 2022",
   },
   {
     original:
@@ -334,7 +334,7 @@ const lefkosaRes2 = [
       "https://ik.imagekit.io/aryakrm/sosisci/2-min.jpg?updatedAt=1716476066032",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Lefkoşa Restaurant 2022",
+    originalAlt: "Nicosia Restaurant 2022",
   },
   {
     original:
@@ -343,7 +343,7 @@ const lefkosaRes2 = [
       "https://ik.imagekit.io/aryakrm/sosisci/3-min.jpg?updatedAt=1716476069152",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Lefkoşa Restaurant 2022",
+    originalAlt: "Nicosia Restaurant 2022",
   },
 ];
 const raufUni = [
@@ -607,42 +607,42 @@ const pashaLargeKing = [
     thumbnail: "https://i.postimg.cc/rwkBSc0T/01-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Large King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/05KFFr7x/02-min.jpg",
     thumbnail: "https://i.postimg.cc/05KFFr7x/02-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Large King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/ydt5Wz4w/03-min.jpg",
     thumbnail: "https://i.postimg.cc/ydt5Wz4w/03-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Large King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/tJ6cxm97/04-min.jpg",
     thumbnail: "https://i.postimg.cc/tJ6cxm97/04-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Large King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/4NCqgZ1c/05-min.jpg",
     thumbnail: "https://i.postimg.cc/4NCqgZ1c/05-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Large King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/GhkN3NM5/06-min.jpg",
     thumbnail: "https://i.postimg.cc/GhkN3NM5/06-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Large King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Large King Room, Nicosia",
   },
 ];
 const pashaSmallKing = [
@@ -651,49 +651,49 @@ const pashaSmallKing = [
     thumbnail: "https://i.postimg.cc/8P0GWxdP/01-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/fLDQDss5/02-min.jpg",
     thumbnail: "https://i.postimg.cc/fLDQDss5/02-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/JzHLQKK3/03-min.jpg",
     thumbnail: "https://i.postimg.cc/JzHLQKK3/03-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/YS1B595h/04-min.jpg",
     thumbnail: "https://i.postimg.cc/YS1B595h/04-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/5tcMKvkh/05-min.jpg",
     thumbnail: "https://i.postimg.cc/5tcMKvkh/05-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/Kc9hSCHr/06-min.jpg",
     thumbnail: "https://i.postimg.cc/Kc9hSCHr/06-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
   {
     original: "https://i.postimg.cc/cCkpR8n5/07-min.jpg",
     thumbnail: "https://i.postimg.cc/cCkpR8n5/07-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Small King Room, Lefkoşa",
+    originalAlt: "Pasha Hotel Small King Room, Nicosia",
   },
 ];
 
@@ -705,7 +705,7 @@ const pashaRestoration = [
       "https://ik.imagekit.io/aryakrm/Intro/1%20(1).jpg?updatedAt=1716460154512",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Restoration Project, Lefkoşa",
+    originalAlt: "Pasha Hotel Restoration Project, Nicosia",
   },
   {
     original:
@@ -714,7 +714,7 @@ const pashaRestoration = [
       "https://ik.imagekit.io/aryakrm/pasha%20restoration/2%20(1).jpg?updatedAt=1716462724590",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Restoration Project, Lefkoşa",
+    originalAlt: "Pasha Hotel Restoration Project, Nicosia",
   },
 ];
 const pashaTerrace = [
@@ -723,28 +723,28 @@ const pashaTerrace = [
     thumbnail: "https://i.postimg.cc/DZvf5LS2/01-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Terrace Rooms, Nicosia",
   },
   {
     original: "https://i.postimg.cc/dtksWqVT/02-min.jpg",
     thumbnail: "https://i.postimg.cc/dtksWqVT/02-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Terrace Rooms, Nicosia",
   },
   {
     original: "https://i.postimg.cc/2yJzzt26/03-min.jpg",
     thumbnail: "https://i.postimg.cc/2yJzzt26/03-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Terrace Rooms, Nicosia",
   },
   {
     original: "https://i.postimg.cc/h434bJcB/04-min.jpg",
     thumbnail: "https://i.postimg.cc/h434bJcB/04-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Terrace Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Terrace Rooms, Nicosia",
   },
 ];
 const airportVip = [
@@ -755,7 +755,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/1-min.jpg?updatedAt=1716463301983",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
     original:
@@ -764,7 +764,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/2-min.jpg?updatedAt=1716463298537",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
     original:
@@ -773,7 +773,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/3-min.jpg?updatedAt=1716463303741",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
     original:
@@ -782,7 +782,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/4-min.jpg?updatedAt=1716463297357",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
     original:
@@ -791,7 +791,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/5-min.jpg?updatedAt=1716463300217",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
     original:
@@ -800,7 +800,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/6-min.jpg?updatedAt=1716463545167",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
     original:
@@ -809,7 +809,7 @@ const airportVip = [
       "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/7-min.jpg?updatedAt=1716463295883",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Ercan Airport VIP Lounge, Lefkoşa",
+    originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
 ];
 const bendo = [
@@ -858,7 +858,7 @@ const pashaStandard = [
       "https://ik.imagekit.io/aryakrm/pasha%20standard/1-min(3).jpg?updatedAt=1716465148007",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Standard Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Standard Rooms, Nicosia",
   },
   {
     original:
@@ -867,7 +867,7 @@ const pashaStandard = [
       "https://ik.imagekit.io/aryakrm/pasha%20standard/2-min(2).jpg?updatedAt=1716465148673",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Standard Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Standard Rooms, Nicosia",
   },
   {
     original:
@@ -876,7 +876,7 @@ const pashaStandard = [
       "https://ik.imagekit.io/aryakrm/pasha%20standard/3-min(1).jpg?updatedAt=1716465147208",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel Standard Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel Standard Rooms, Nicosia",
   },
 ];
 const pasha5 = [
@@ -887,7 +887,7 @@ const pasha5 = [
       "https://ik.imagekit.io/aryakrm/pasha5/1-min(2).jpg?updatedAt=1716464520844",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel 5.Floor Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel 5.Floor Rooms, Nicosia",
   },
   {
     original:
@@ -896,7 +896,7 @@ const pasha5 = [
       "https://ik.imagekit.io/aryakrm/pasha5/2-min(1).jpg?updatedAt=1716464518853",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel 5.Floor Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel 5.Floor Rooms, Nicosia",
   },
   {
     original:
@@ -905,7 +905,7 @@ const pasha5 = [
       "https://ik.imagekit.io/aryakrm/pasha5/3-min.jpg?updatedAt=1716464520361",
     originalHeight: "300",
     originalWidth: "400",
-    originalAlt: "Pasha Hotel 5.Floor Rooms, Lefkoşa",
+    originalAlt: "Pasha Hotel 5.Floor Rooms, Nicosia",
   },
 ];
 const sweetHome = [
@@ -1509,7 +1509,7 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Pasha Hotel Restoration Project, Lefkoşa - 2024</h1>
+        <h1>Pasha Hotel Restoration Project, Nicosia - 2024</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
@@ -1520,18 +1520,7 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Pasha Hotel Large King Room, Lefkoşa - 2024</h1>
-        <div className="renders">
-          <ImageGallery
-            thumbnailPosition="bottom"
-            showThumbnails={true}
-            showPlayButton={false}
-            items={pashaLargeKing}
-          />
-        </div>
-      </div>
-      <div className="project">
-        <h1>Pasha Hotel Small King Room, Lefkoşa - 2024</h1>
+        <h1>Pasha Hotel King Deluxe Suit Rooms, Nicosia - 2024</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
@@ -1542,7 +1531,18 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Pasha Hotel Suit Rooms, Lefkoşa - 2024</h1>
+        <h1>Pasha Hotel King Suit Rooms, Nicosia - 2024</h1>
+        <div className="renders">
+          <ImageGallery
+            thumbnailPosition="bottom"
+            showThumbnails={true}
+            showPlayButton={false}
+            items={pashaLargeKing}
+          />
+        </div>
+      </div>
+      <div className="project">
+        <h1>Pasha Hotel Suit Rooms, Nicosia - 2024</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
@@ -1553,7 +1553,7 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Pasha Hotel Terrace Rooms, Lefkoşa - 2024</h1>
+        <h1>Pasha Hotel Terrace Suit Rooms, Nicosia - 2024</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
@@ -1564,7 +1564,7 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Ercan Airport VIP Lounge, Lefkoşa - 2023</h1>
+        <h1>Ercan Airport VIP Lounge, Nicosia - 2023</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
@@ -1630,7 +1630,7 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Restaurant Project, Lefkoşa - 2023</h1>
+        <h1>Restaurant Project, Nicosia - 2023</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
@@ -1819,7 +1819,7 @@ function Designs() {
         </div>
       </div>
       <div className="project">
-        <h1>Restaurant Project, Lefkoşa - 2020</h1>
+        <h1>Restaurant Project, Nicosia - 2020</h1>
         <div className="renders">
           <ImageGallery
             thumbnailPosition="bottom"
