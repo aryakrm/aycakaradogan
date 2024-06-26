@@ -12,6 +12,7 @@ import { LuFlower2 } from "react-icons/lu";
 import { MdArchitecture } from "react-icons/md";
 import { SiAltiumdesigner } from "react-icons/si";
 import { SiThreedotjs } from "react-icons/si";
+import { FaCode } from "react-icons/fa6";
 import "../i18n.js";
 // import { t } from "i18next";
 import { useTranslation } from "react-i18next";
@@ -58,6 +59,10 @@ function About() {
         <li>
           <SiThreedotjs />
           <h2>{t("modeling")}</h2>
+        </li>
+        <li>
+          <FaCode />
+          <h2>{t("web")}</h2>
         </li>
       </ul>
       <Footer />

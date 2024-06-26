@@ -28,7 +28,7 @@ function Contact() {
       />
       <p>
         <FiPhone /> +90 533 836 08 15 <br />
-        <MdOutlineEmail /> info@aycakaradogan.com <br />
+        <MdOutlineEmail /> ayca.y@hotmail.com <br />
         <IoLocationOutline /> Yapım 76 Apartmanı, Sami Selçuk Sokak, Ortaköy
         Kermiya, Yapım, Ap 76, Metehan
       </p>
