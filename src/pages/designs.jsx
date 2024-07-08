@@ -699,19 +699,15 @@ const pashaSmallKing = [
 
 const pashaRestoration = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Intro/1%20(1).jpg?updatedAt=1716460154512",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Intro/1%20(1).jpg?updatedAt=1716460154512",
+    original: "https://i.postimg.cc/L6WtV2V5/1.png",
+    thumbnail: "https://i.postimg.cc/L6WtV2V5/1.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Pasha Hotel Restoration Project, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/pasha%20restoration/2%20(1).jpg?updatedAt=1716462724590",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/pasha%20restoration/2%20(1).jpg?updatedAt=1716462724590",
+    original: "https://i.postimg.cc/Qxb8LJtW/2-1.png",
+    thumbnail: "https://i.postimg.cc/Qxb8LJtW/2-1.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Pasha Hotel Restoration Project, Nicosia",
@@ -881,28 +877,22 @@ const pashaStandard = [
 ];
 const pasha5 = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/pasha5/1-min(2).jpg?updatedAt=1716464520844",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/pasha5/1-min(2).jpg?updatedAt=1716464520844",
+    original: "https://i.postimg.cc/TPwkCfy4/3-min.jpg",
+    thumbnail: "https://i.postimg.cc/TPwkCfy4/3-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Pasha Hotel 5.Floor Rooms, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/pasha5/2-min(1).jpg?updatedAt=1716464518853",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/pasha5/2-min(1).jpg?updatedAt=1716464518853",
+    original: "https://i.postimg.cc/k4HvjSrV/1-min-4.jpg",
+    thumbnail: "https://i.postimg.cc/k4HvjSrV/1-min-4.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Pasha Hotel 5.Floor Rooms, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/pasha5/3-min.jpg?updatedAt=1716464520361",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/pasha5/3-min.jpg?updatedAt=1716464520361",
+    original: "https://i.postimg.cc/pTrBYZSb/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/pTrBYZSb/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Pasha Hotel 5.Floor Rooms, Nicosia",
@@ -1170,8 +1160,8 @@ const terasOcakbasi = [
 ];
 const palmDubai = [
   {
-    original: "https://i.ibb.co/Fw67Qqd/1.jpg",
-    thumbnail: "https://i.ibb.co/Fw67Qqd/1.jpg",
+    original: "https://i.postimg.cc/PrJJKD6z/1-min-2.jpg",
+    thumbnail: "https://i.postimg.cc/PrJJKD6z/1-min-2.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Palm Jumeirah Villa, Dubai, United Arab Emirates",
