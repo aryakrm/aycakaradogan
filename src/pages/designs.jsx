@@ -745,64 +745,50 @@ const pashaTerrace = [
 ];
 const airportVip = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/1-min.jpg?updatedAt=1716463301983",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/1-min.jpg?updatedAt=1716463301983",
+    original: "https://i.postimg.cc/5yKhdr61/1-min-5.jpg",
+    thumbnail: "https://i.postimg.cc/5yKhdr61/1-min-5.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/2-min.jpg?updatedAt=1716463298537",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/2-min.jpg?updatedAt=1716463298537",
+    original: "https://i.postimg.cc/N0183r5j/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/N0183r5j/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/3-min.jpg?updatedAt=1716463303741",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/3-min.jpg?updatedAt=1716463303741",
+    original: "https://i.postimg.cc/7Y6V56QK/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/7Y6V56QK/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/4-min.jpg?updatedAt=1716463297357",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/4-min.jpg?updatedAt=1716463297357",
+    original: "https://i.postimg.cc/qM5GyTP4/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/qM5GyTP4/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/5-min.jpg?updatedAt=1716463300217",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/5-min.jpg?updatedAt=1716463300217",
+    original: "https://i.postimg.cc/MZt5ZRtc/5-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/MZt5ZRtc/5-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/6-min.jpg?updatedAt=1716463545167",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/6-min.jpg?updatedAt=1716463545167",
+    original: "https://i.postimg.cc/tJrNrQ7d/6-min.jpg",
+    thumbnail: "https://i.postimg.cc/tJrNrQ7d/6-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/7-min.jpg?updatedAt=1716463295883",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/vip%20havaliman%C4%B1/7-min.jpg?updatedAt=1716463295883",
+    original: "https://i.postimg.cc/K8CJS2fJ/7-min.jpg",
+    thumbnail: "https://i.postimg.cc/K8CJS2fJ/7-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Ercan Airport VIP Lounge, Nicosia",
@@ -929,37 +915,29 @@ const sweetHome = [
 ];
 const tuzlaVillas = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Tuzla/4%20(1).jpg?updatedAt=1716466487704",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Tuzla/4%20(1).jpg?updatedAt=1716466487704",
+    original: "https://i.postimg.cc/mZvTpzfn/4-1.jpg",
+    thumbnail: "https://i.postimg.cc/mZvTpzfn/4-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Villas Project, Tuzla, Magusa",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Tuzla/1-min.jpg?updatedAt=1716466470510",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Tuzla/1-min.jpg?updatedAt=1716466470510",
+    original: "https://i.postimg.cc/N0qGyKbT/1-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/N0qGyKbT/1-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Villas Project, Tuzla, Magusa",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Tuzla/2-min.jpg?updatedAt=1716466469994",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Tuzla/2-min.jpg?updatedAt=1716466469994",
+    original: "https://i.postimg.cc/nhQcc4Kp/2-min-2.jpg",
+    thumbnail: "https://i.postimg.cc/nhQcc4Kp/2-min-2.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Villas Project, Tuzla, Magusa",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Tuzla/3-min.jpg?updatedAt=1716466468214",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Tuzla/3-min.jpg?updatedAt=1716466468214",
+    original: "https://i.postimg.cc/gjSkr4Bk/3-min-2.jpg",
+    thumbnail: "https://i.postimg.cc/gjSkr4Bk/3-min-2.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Villas Project, Tuzla, Magusa",
@@ -1386,15 +1364,6 @@ const manolyaHotel = [
       "https://ik.imagekit.io/aryakrm/Manolya/0-min.jpg?updatedAt=1716468395736",
     thumbnail:
       "https://ik.imagekit.io/aryakrm/Manolya/0-min.jpg?updatedAt=1716468395736",
-    originalHeight: "300",
-    originalWidth: "400",
-    originalAlt: "Manolya Hotel, Lapta, Kyrenia",
-  },
-  {
-    original:
-      "https://ik.imagekit.io/aryakrm/Manolya/1%20(4).jpg?updatedAt=1716468415690",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Manolya/1%20(4).jpg?updatedAt=1716468415690",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Manolya Hotel, Lapta, Kyrenia",
