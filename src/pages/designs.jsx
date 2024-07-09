@@ -319,28 +319,22 @@ const bellapaisVilla = [
 ];
 const lefkosaRes2 = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/sosisci/1-min.jpg?updatedAt=1716476066813",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/sosisci/1-min.jpg?updatedAt=1716476066813",
+    original: "https://i.postimg.cc/c6GZvjBW/1-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/c6GZvjBW/1-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Nicosia Restaurant 2022",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/sosisci/2-min.jpg?updatedAt=1716476066032",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/sosisci/2-min.jpg?updatedAt=1716476066032",
+    original: "https://i.postimg.cc/D0XnyFs5/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/D0XnyFs5/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Nicosia Restaurant 2022",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/sosisci/3-min.jpg?updatedAt=1716476069152",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/sosisci/3-min.jpg?updatedAt=1716476069152",
+    original: "https://i.postimg.cc/TPtRttfj/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/TPtRttfj/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Nicosia Restaurant 2022",
@@ -1183,64 +1177,50 @@ const metropol = [
 ];
 const enkayaCafe = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/1-min.jpg?updatedAt=1716478082395",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/1-min.jpg?updatedAt=1716478082395",
+    original: "https://i.postimg.cc/tg6TDL2K/1-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/tg6TDL2K/1-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/2-min.jpg?updatedAt=1716478115588",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/2-min.jpg?updatedAt=1716478115588",
+    original: "https://i.postimg.cc/1tZzdJdf/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/1tZzdJdf/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/3-min.jpg?updatedAt=1716478088345",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/3-min.jpg?updatedAt=1716478088345",
+    original: "https://i.postimg.cc/vZcDx19H/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/vZcDx19H/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/4-min.jpg?updatedAt=1716478083708",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/4-min.jpg?updatedAt=1716478083708",
+    original: "https://i.postimg.cc/8PyjCd70/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/8PyjCd70/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/5-min.jpg?updatedAt=1716478091546",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/5-min.jpg?updatedAt=1716478091546",
+    original: "https://i.postimg.cc/mgJkYbN3/5-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/mgJkYbN3/5-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/6-min.jpg?updatedAt=1716478074960",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/6-min.jpg?updatedAt=1716478074960",
+    original: "https://i.postimg.cc/PrfChV5D/6-min.jpg",
+    thumbnail: "https://i.postimg.cc/PrfChV5D/6-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/7-min.jpg?updatedAt=1716478090193",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20cafe/7-min.jpg?updatedAt=1716478090193",
+    original: "https://i.postimg.cc/HnzjXXBj/7-min.jpg",
+    thumbnail: "https://i.postimg.cc/HnzjXXBj/7-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Cafe",
@@ -1248,46 +1228,36 @@ const enkayaCafe = [
 ];
 const enkayaRoof = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/1-min.jpg?updatedAt=1716477341308",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/1-min.jpg?updatedAt=1716477341308",
+    original: "https://i.postimg.cc/1R2d12HC/1-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/1R2d12HC/1-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Hotel Roof Bar And Restaurant Project",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/2-min.jpg?updatedAt=1716477347384",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/2-min.jpg?updatedAt=1716477347384",
+    original: "https://i.postimg.cc/3rdq6Yg0/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/3rdq6Yg0/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Roof Bar And Restaurant Project",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/3-min.jpg?updatedAt=1716477341571",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/3-min.jpg?updatedAt=1716477341571",
+    original: "https://i.postimg.cc/65ZmWcb9/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/65ZmWcb9/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Roof Bar And Restaurant Project",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/4-min.jpg?updatedAt=1716477332320",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/4-min.jpg?updatedAt=1716477332320",
+    original: "https://i.postimg.cc/hhRzK2Jz/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/hhRzK2Jz/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Roof Bar And Restaurant Project",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/5-min.jpg?updatedAt=1716477342686",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/enkaya%20roof/5-min.jpg?updatedAt=1716477342686",
+    original: "https://i.postimg.cc/4xbtxRQJ/5-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/4xbtxRQJ/5-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Enkaya Roof Bar And Restaurant Project",
@@ -1369,10 +1339,8 @@ const manolyaHotel = [
     originalAlt: "Manolya Hotel, Lapta, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Manolya/3-min.jpg?updatedAt=1716468413716",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Manolya/3-min.jpg?updatedAt=1716468413716",
+    original: "https://i.postimg.cc/T1qNc4Xf/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/T1qNc4Xf/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Manolya Hotel, Lapta, Kyrenia",
@@ -1432,19 +1400,15 @@ const manolyaHotel = [
     originalAlt: "Manolya Hotel, Lapta, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Manolya/10-min.jpg?updatedAt=1716468422899",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Manolya/10-min.jpg?updatedAt=1716468422899",
+    original: "https://i.postimg.cc/qRK5N7bt/10-min.jpg",
+    thumbnail: "https://i.postimg.cc/qRK5N7bt/10-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Manolya Hotel, Lapta, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Manolya/11-min.jpg?updatedAt=1716468423916",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Manolya/11-min.jpg?updatedAt=1716468423916",
+    original: "https://i.postimg.cc/Pfm7hPv9/11-min.jpg",
+    thumbnail: "https://i.postimg.cc/Pfm7hPv9/11-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Manolya Hotel, Lapta, Kyrenia",
