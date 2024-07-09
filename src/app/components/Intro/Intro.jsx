@@ -11,7 +11,7 @@ function Intro() {
       <Carousel fade>
         <Carousel.Item>
           <Image
-            src="https://i.ibb.co/sFj2xGg/1-min-1.jpg"
+            src="https://i.postimg.cc/PrJJKD6z/1-min-2.jpg"
             alt="first Slide"
             width={100}
             height={100}
@@ -23,7 +23,7 @@ function Intro() {
         </Carousel.Item>
         <Carousel.Item>
           <Image
-            src="https://ik.imagekit.io/aryakrm/Intro/1%20(1).jpg?updatedAt=1716460154512"
+            src="https://i.postimg.cc/L6WtV2V5/1.png"
             alt="first Slide"
             width={100}
             height={100}
@@ -35,7 +35,7 @@ function Intro() {
         </Carousel.Item>
         <Carousel.Item>
           <Image
-            src="https://ik.imagekit.io/aryakrm/Intro/1%20(2).jpg?updatedAt=1716460251987"
+            src="https://i.postimg.cc/5yKhdr61/1-min-5.jpg"
             alt="first Slide"
             width={100}
             height={100}
