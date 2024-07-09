@@ -342,55 +342,43 @@ const lefkosaRes2 = [
 ];
 const raufUni = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/1%20(1).jpg?updatedAt=1716480838848",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/1%20(1).jpg?updatedAt=1716480838848",
+    original: "https://i.postimg.cc/Zq2zCnm3/2-1.png",
+    thumbnail: "https://i.postimg.cc/Zq2zCnm3/2-1.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/2%20(1).jpg?updatedAt=1716480836889",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/2%20(1).jpg?updatedAt=1716480836889",
+    original: "https://i.postimg.cc/7ZPkRjXC/2-logo.png",
+    thumbnail: "https://i.postimg.cc/7ZPkRjXC/2-logo.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/6-min.jpg?updatedAt=1716480819908",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/6-min.jpg?updatedAt=1716480819908",
+    original: "https://i.postimg.cc/xCMh8PtD/6.jpg",
+    thumbnail: "https://i.postimg.cc/xCMh8PtD/6.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/7-min.jpg?updatedAt=1716480828351",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/7-min.jpg?updatedAt=1716480828351",
+    original: "https://i.postimg.cc/7ZhR04mN/11.jpg",
+    thumbnail: "https://i.postimg.cc/7ZhR04mN/11.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/8-min.jpg?updatedAt=1716480831625",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/8-min.jpg?updatedAt=1716480831625",
+    original: "https://i.postimg.cc/zGQckQQY/14.jpg",
+    thumbnail: "https://i.postimg.cc/zGQckQQY/14.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/9-min.jpg?updatedAt=1716480828740",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/rauf%20denkta%C5%9F%20uni/9-min.jpg?updatedAt=1716480828740",
+    original: "https://i.postimg.cc/43KrkGc3/16.jpg",
+    thumbnail: "https://i.postimg.cc/43KrkGc3/16.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University",
@@ -398,28 +386,22 @@ const raufUni = [
 ];
 const UniLib = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Rauf%20Library/3-min.jpg?updatedAt=1716481222127",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Rauf%20Library/3-min.jpg?updatedAt=1716481222127",
+    original: "https://i.postimg.cc/8zGRgmrf/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/8zGRgmrf/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University Library",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Rauf%20Library/4-min.jpg?updatedAt=1716481220904",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Rauf%20Library/4-min.jpg?updatedAt=1716481220904",
+    original: "https://i.postimg.cc/sfB9YXrx/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/sfB9YXrx/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University Library",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Rauf%20Library/5-min.jpg?updatedAt=1716481222930",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Rauf%20Library/5-min.jpg?updatedAt=1716481222930",
+    original: "https://i.postimg.cc/RZTcSJcs/5-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/RZTcSJcs/5-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Rauf Denktas University Library",
@@ -898,10 +880,8 @@ const sweetHome = [
     originalAlt: "Sweet Home",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Karmi/3-min.jpg?updatedAt=1716482170285",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Karmi/3-min.jpg?updatedAt=1716482170285",
+    original: "https://i.postimg.cc/fTtX9gY9/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/fTtX9gY9/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Sweet Home",
