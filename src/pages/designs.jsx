@@ -149,28 +149,22 @@ const EsenTepeVilla = [
 ];
 const karpazStoneHouse = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/karpaz%20stone%20house/1%20(1)-min.jpg?updatedAt=1716482802217",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/karpaz%20stone%20house/1%20(1)-min.jpg?updatedAt=1716482802217",
+    original: "https://i.postimg.cc/gcSMq5Qc/1-1-min.png",
+    thumbnail: "https://i.postimg.cc/gcSMq5Qc/1-1-min.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Karpaz Stone House",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/karpaz%20stone%20house/2%20(1)-min.jpg?updatedAt=1716482805439",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/karpaz%20stone%20house/2%20(1)-min.jpg?updatedAt=1716482805439",
+    original: "https://i.postimg.cc/9FDLxbHd/2-1-min.png",
+    thumbnail: "https://i.postimg.cc/9FDLxbHd/2-1-min.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Karpaz Stone House",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/karpaz%20stone%20house/3-min.jpg?updatedAt=1716482805791",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/karpaz%20stone%20house/3-min.jpg?updatedAt=1716482805791",
+    original: "https://i.postimg.cc/zGRPfjdz/3-min.png",
+    thumbnail: "https://i.postimg.cc/zGRPfjdz/3-min.png",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Karpaz Stone House",
@@ -772,37 +766,29 @@ const airportVip = [
 ];
 const bendo = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Bendo/1-min.jpg?updatedAt=1716481878794",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Bendo/1-min.jpg?updatedAt=1716481878794",
+    original: "https://i.postimg.cc/GtkZ9j3T/1-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/GtkZ9j3T/1-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Bendo Restaurant, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Bendo/2-min.jpg?updatedAt=1716481872631",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Bendo/2-min.jpg?updatedAt=1716481872631",
+    original: "https://i.postimg.cc/ZnkGTQmh/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/ZnkGTQmh/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Bendo Restaurant, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Bendo/3-min.jpg?updatedAt=1716481872582",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Bendo/3-min.jpg?updatedAt=1716481872582",
+    original: "https://i.postimg.cc/4dhCRgr5/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/4dhCRgr5/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Bendo Restaurant, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Bendo/4-min.jpg?updatedAt=1716481877175",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Bendo/4-min.jpg?updatedAt=1716481877175",
+    original: "https://i.postimg.cc/6pYxdzrd/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/6pYxdzrd/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Bendo Restaurant, Kyrenia",
@@ -1018,37 +1004,29 @@ const tuzlaVillas = [
 ];
 const fjakaBar = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/1-min.jpg?updatedAt=1716485197087",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/1-min.jpg?updatedAt=1716485197087",
+    original: "https://i.postimg.cc/XYH9BGvs/1-min-5.jpg",
+    thumbnail: "https://i.postimg.cc/XYH9BGvs/1-min-5.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "FJAKA BAR, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/2-min.jpg?updatedAt=1716485195903",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/2-min.jpg?updatedAt=1716485195903",
+    original: "https://i.postimg.cc/cLscnGBL/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/cLscnGBL/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "FJAKA BAR, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/3-min.jpg?updatedAt=1716485188945",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/3-min.jpg?updatedAt=1716485188945",
+    original: "https://i.postimg.cc/fT7KyRXP/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/fT7KyRXP/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "FJAKA BAR, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/4-min.jpg?updatedAt=1716485191424",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Fjaka%20Bar/4-min.jpg?updatedAt=1716485191424",
+    original: "https://i.postimg.cc/Wbc8skDr/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/Wbc8skDr/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "FJAKA BAR, Kyrenia",
@@ -1056,55 +1034,43 @@ const fjakaBar = [
 ];
 const terasOcakbasi = [
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/1-min.jpg?updatedAt=1716484846506",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/1-min.jpg?updatedAt=1716484846506",
+    original: "https://i.postimg.cc/907q9rs7/1-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/907q9rs7/1-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Teras Ocakbaşı Pasha Hotel, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/2-min.jpg?updatedAt=1716484844291",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/2-min.jpg?updatedAt=1716484844291",
+    original: "https://i.postimg.cc/bYsWZkNB/2-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/bYsWZkNB/2-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Teras Ocakbaşı Pasha Hotel, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/3-min.jpg?updatedAt=1716484844501",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/3-min.jpg?updatedAt=1716484844501",
+    original: "https://i.postimg.cc/c12jwCv4/3-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/c12jwCv4/3-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Teras Ocakbaşı Pasha Hotel, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/4-min.jpg?updatedAt=1716484861764",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/4-min.jpg?updatedAt=1716484861764",
+    original: "https://i.postimg.cc/V5P0WzcH/4-min.jpg",
+    thumbnail: "https://i.postimg.cc/V5P0WzcH/4-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Teras Ocakbaşı Pasha Hotel, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/5-min.jpg?updatedAt=1716484845583",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/5-min.jpg?updatedAt=1716484845583",
+    original: "https://i.postimg.cc/76bzxBVX/5-min-1.jpg",
+    thumbnail: "https://i.postimg.cc/76bzxBVX/5-min-1.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Teras Ocakbaşı Pasha Hotel, Kyrenia",
   },
   {
-    original:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/6-min.jpg?updatedAt=1716484831406",
-    thumbnail:
-      "https://ik.imagekit.io/aryakrm/Teras%20Ocakba%C5%9F%C4%B1/6-min.jpg?updatedAt=1716484831406",
+    original: "https://i.postimg.cc/BQFzg3F5/6-min.jpg",
+    thumbnail: "https://i.postimg.cc/BQFzg3F5/6-min.jpg",
     originalHeight: "300",
     originalWidth: "400",
     originalAlt: "Teras Ocakbaşı Pasha Hotel, Kyrenia",
