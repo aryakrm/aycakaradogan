@@ -22,7 +22,7 @@ function Footer() {
           </h5>
           <h5>
             {" "}
-            <MdOutlineEmail /> ayca.y@hotmail.com
+            <MdOutlineEmail /> info@aycakaradogan.com
           </h5>
         </div>
       </div>
