@@ -27,8 +27,8 @@ function Footer() {
         </div>
       </div>
       <p>
-        Designed By Arya Karimi Copyright@ All Rights are Reserved By Ayça
-        Karadoğan Design
+        Designed By Ayça Karadoğan Design Team Copyright@ All Rights are
+        Reserved By Ayça Karadoğan Design
       </p>
     </footer>
   );
