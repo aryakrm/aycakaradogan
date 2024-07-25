@@ -13,6 +13,12 @@ import { MdArchitecture } from "react-icons/md";
 import { SiAltiumdesigner } from "react-icons/si";
 import { SiThreedotjs } from "react-icons/si";
 import { FaCode } from "react-icons/fa6";
+import { FaMobileAlt } from "react-icons/fa";
+import { CgIfDesign } from "react-icons/cg";
+import { MdAppRegistration } from "react-icons/md";
+import { LuBarChart4 } from "react-icons/lu";
+import { MdOutlineOnlinePrediction } from "react-icons/md";
+import { MdOutlineAdsClick } from "react-icons/md";
 import "../i18n.js";
 // import { t } from "i18next";
 import { useTranslation } from "react-i18next";
@@ -63,6 +69,30 @@ function About() {
         <li>
           <FaCode />
           <h2>{t("web")}</h2>
+        </li>
+        <li>
+          <FaMobileAlt />
+          <h2>{t("mobile")}</h2>
+        </li>
+        <li>
+          <CgIfDesign />
+          <h2>{t("graphic")}</h2>
+        </li>
+        <li>
+          <MdAppRegistration />
+          <h2>{t("webApp")}</h2>
+        </li>
+        <li>
+          <LuBarChart4 />
+          <h2>{t("seo")}</h2>
+        </li>
+        <li>
+          <MdOutlineOnlinePrediction />
+          <h2>{t("digital")}</h2>
+        </li>
+        <li>
+          <MdOutlineAdsClick />
+          <h2>{t("ads")}</h2>
         </li>
       </ul>
       <Footer />
