@@ -11,34 +11,21 @@
     font-size: 5rem;
     margin-bottom: 2rem;
     color: #f5c4bd;
-    animation: rotate 10s linear infinite;
   }
   h1 {
     margin-bottom: 3rem;
   }
-  .embla {
-    overflow: hidden;
-    .embla__container {
-      display: flex;
-      gap: 20%;
-      width: 100%;
-      .embla__slide {
-        flex: 0 0 15%;
-        min-width: 0;
-        img {
-          border-radius: 20px;
-        }
-      }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+    img {
+      width: 50%;
+      height: auto;
+      border-radius: 10px;
     }
-  }
-}
-
-@keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
   }
 }
 
@@ -48,19 +35,11 @@
     h1 {
       margin-bottom: 2rem;
     }
-    .embla {
-      overflow: hidden;
-      .embla__container {
-        gap: 20%;
+    .container {
+      flex-direction: column;
+      img {
         width: 90%;
-        .embla__slide {
-          flex: 0 0 20%;
-
-          img {
-            width: 300px;
-            height: auto;
-          }
-        }
+        height: auto;
       }
     }
   }

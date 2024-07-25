@@ -14,34 +14,19 @@ function Sec3() {
     <section className="Sec3">
       <MdDesignServices />
       <h1>Last Projects</h1>
-      <div className="embla" ref={emblaRef}>
-        <div className="embla__container">
-          <div className="embla__slide">
-            <Image
-              src="https://i.ibb.co/68ysxns/01-Copy.jpg"
-              alt="first Slide"
-              width={600}
-              height={400}
-            />
-          </div>
-          <div className="embla__slide">
-            <Image
-              src="
-              https://i.ibb.co/mXkN7VP/02-Copy.jpg"
-              alt="second Slide"
-              width={600}
-              height={400}
-            />
-          </div>
-          <div className="embla__slide">
-            <Image
-              src="https://i.ibb.co/2KCX40s/03-Copy.jpg"
-              alt="third Slide"
-              width={600}
-              height={400}
-            />
-          </div>
-        </div>
+      <div className="container">
+        <Image
+          src="https://i.postimg.cc/T1t94mv1/01.jpg"
+          alt="first Slide"
+          width={600}
+          height={400}
+        />
+        <Image
+          src="https://i.postimg.cc/503qXv0g/02.jpg"
+          alt="Second Slide"
+          width={600}
+          height={400}
+        />
       </div>
     </section>
   );
