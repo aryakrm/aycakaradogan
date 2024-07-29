@@ -13,7 +13,7 @@ const petit = Petit_Formal_Script({
 export const metadata = {
   title: "Design By Ayça Karadoğan's Official Website",
   description:
-    "At Ayça Karadoğan Design, we are building a future beyond your dreams. Ayça Karadoğan Design has managed to stand out with its different lines and extraordinary structures since 2010. We are working to offer you the safest and best life above standards. Choose your home, too.",
+    "We do Architectural Design, Interior Design, Landscape Design, 3D Modeling, Website Design & Development, Mobile App Design & Development, Graphic Design, Web App Design & Development, SEO Management, Digital Marketing and Ads Management",
   icons: {
     icon: "/src/app/favicon.ico",
   },
@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
         <title>Design By Ayça Karadoğan's Official Website</title>
         <meta
           name="description"
-          content="At Ayça Karadoğan Design, we are building a future beyond your dreams. Ayça Karadoğan Design has managed to stand out with its different lines and extraordinary structures since 2010. We are working to offer you the safest and best life above standards. Choose your home, too."
+          content="We do Architectural Design, Interior Design, Landscape Design, 3D Modeling, Website Design & Development, Mobile App Design & Development, Graphic Design, Web App Design & Development, SEO Management, Digital Marketing and Ads Management"
         ></meta>
         <meta name="author" content="Ayça Karadoğan"></meta>
       </Head>
