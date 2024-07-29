@@ -9,8 +9,6 @@ import { MdDesignServices } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
 
 function Sec3() {
-  const [emblaRef] = useEmblaCarousel({ loop: true }, [Autoplay()]);
-
   return (
     <section className="Sec3">
       <MdDesignServices />
