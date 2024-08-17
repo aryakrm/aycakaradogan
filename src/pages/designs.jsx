@@ -1092,6 +1092,38 @@ const palmDubai = [
     originalAlt: "Palm Jumeirah Villa, Dubai, United Arab Emirates",
   },
 ];
+const luxuryTownhouses = [
+  {
+    original: "https://i.postimg.cc/V61bM0FP/02-min.jpg",
+    thumbnail: "https://i.postimg.cc/V61bM0FP/02-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Luxury Townhouses, Dubai, United Arab Emirates",
+  },
+  {
+    original: "https://i.postimg.cc/Wz1FYRK9/01-min.jpg",
+    thumbnail: "https://i.postimg.cc/Wz1FYRK9/01-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Luxury Townhouses, Dubai, United Arab Emirates",
+  },
+];
+const mansions = [
+  {
+    original: "https://i.postimg.cc/PfvPx4Hv/insta-8k-day-logolu-min.jpg",
+    thumbnail: "https://i.postimg.cc/PfvPx4Hv/insta-8k-day-logolu-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Öztoprak Mansions, İskele, Famagusta - 2024",
+  },
+  {
+    original: "https://i.postimg.cc/W3Cz8DG4/insta-8k-logolu-min.jpg",
+    thumbnail: "https://i.postimg.cc/W3Cz8DG4/insta-8k-logolu-min.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Öztoprak Mansions, İskele, Famagusta - 2024",
+  },
+];
 const metropol = [
   {
     original:
@@ -1366,6 +1398,28 @@ function Designs() {
     <section className="Designs">
       <Nav />
       <h1 className="designs_title">Some of Our Extraordinary Designs</h1>
+      <div className="project">
+        <h1>Öztoprak Mansions, İskele, Famagusta - 2024</h1>
+        <div className="renders">
+          <ImageGallery
+            thumbnailPosition="bottom"
+            showThumbnails={true}
+            showPlayButton={false}
+            items={mansions}
+          />
+        </div>
+      </div>
+      <div className="project">
+        <h1>Luxury Townhouses, Dubai, United Arab Emirates - 2024</h1>
+        <div className="renders">
+          <ImageGallery
+            thumbnailPosition="bottom"
+            showThumbnails={true}
+            showPlayButton={false}
+            items={luxuryTownhouses}
+          />
+        </div>
+      </div>
       <div className="project">
         <h1>Palm Jumeirah Villa, Dubai, United Arab Emirates - 2024</h1>
         <div className="renders">

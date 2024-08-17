@@ -31,6 +31,23 @@ function Sec3() {
           height={400}
         />
       </div>
+      <h3>
+        <FaLocationDot /> İskele, Famagusta
+      </h3>
+      <div className="container">
+        <Image
+          src="https://i.postimg.cc/PfvPx4Hv/insta-8k-day-logolu-min.jpg"
+          alt="first Slide"
+          width={600}
+          height={400}
+        />
+        <Image
+          src="https://i.postimg.cc/W3Cz8DG4/insta-8k-logolu-min.jpg"
+          alt="Second Slide"
+          width={600}
+          height={400}
+        />
+      </div>
     </section>
   );
 }
