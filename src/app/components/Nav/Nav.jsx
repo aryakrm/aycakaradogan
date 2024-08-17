@@ -42,13 +42,15 @@ function Nav() {
 
   return (
     <nav className={yeseva.className}>
-      <Image
-        src="/logo.png"
-        alt="Ayca Karadogan Design Logo"
-        width={170}
-        height={90}
-        priority
-      />
+      <Link href="/">
+        <Image
+          src="/logo.png"
+          alt="Ayca Karadogan Design Logo"
+          width={170}
+          height={90}
+          priority
+        />
+      </Link>{" "}
       <ul className="nav_menu">
         <li>
           {" "}
