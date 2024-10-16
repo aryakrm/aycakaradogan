@@ -1124,6 +1124,29 @@ const mansions = [
     originalAlt: "Öztoprak Mansions, İskele, Famagusta - 2024",
   },
 ];
+const modernMansions = [
+  {
+    original: "https://i.postimg.cc/QM1ySSmJ/sol-logo.jpg",
+    thumbnail: "https://i.postimg.cc/QM1ySSmJ/sol-logo.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Modern Hayırsever Mansion, Nicosia - 2024",
+  },
+  {
+    original: "https://i.postimg.cc/Jn3S7KBz/n-logo.jpg",
+    thumbnail: "https://i.postimg.cc/Jn3S7KBz/n-logo.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Modern Hayırsever Mansion, Nicosia - 2024",
+  },
+  {
+    original: "https://i.postimg.cc/3xPqgzXw/sa-logo.jpg",
+    thumbnail: "https://i.postimg.cc/3xPqgzXw/sa-logo.jpg",
+    originalHeight: "300",
+    originalWidth: "400",
+    originalAlt: "Modern Hayırsever Mansion, Nicosia - 2024",
+  },
+];
 const metropol = [
   {
     original:
@@ -1398,6 +1421,17 @@ function Designs() {
     <section className="Designs">
       <Nav />
       <h1 className="designs_title">Some of Our Extraordinary Designs</h1>
+      <div className="project">
+        <h1>Modern Hayırsever Mansion, Nicosia - 2024</h1>
+        <div className="renders">
+          <ImageGallery
+            thumbnailPosition="bottom"
+            showThumbnails={true}
+            showPlayButton={false}
+            items={modernMansions}
+          />
+        </div>
+      </div>
       <div className="project">
         <h1>Öztoprak Mansions, İskele, Famagusta - 2024</h1>
         <div className="renders">
